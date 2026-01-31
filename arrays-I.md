@@ -30,6 +30,8 @@ System.out.println(marks[0]);//output
 
 
 ### Passing arrays as arguments:
+When you pass an array as an argument to a function, you’re essentially giving that function access to the array so it can read or modify its elements.
+
 
 
 
