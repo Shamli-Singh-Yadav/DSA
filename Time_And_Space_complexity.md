@@ -5,9 +5,9 @@
 </div>
 
 ## Time complexity :
--how fast or slow a program runs when the input size increases.
--It does not mean actual time (seconds/minutes)
--It means how the number of steps grows
+- how fast or slow a program runs when the input size increases.
+- It does not mean actual time (seconds/minutes)
+- It means how the number of steps grows
 
 ## Simple example:
 
@@ -16,9 +16,9 @@ If array has 100 elements, loop runs 100 times
 So more data → more time.
 
 Common cases:
--O(1) → very fast, runs in constant time
--O(n) → time increases with input size
--O(n²) → slow for large input (nested loops)
+- O(1) → very fast, runs in constant time
+- O(n) → time increases with input size
+- O(n²) → slow for large input (nested loops)
 
 <div align="center">
 
@@ -27,13 +27,13 @@ Common cases:
 </div>
 
 Space complexity :
--how much extra memory a program uses.
--Only counts extra space, not input data
--Focuses on variables and extra arrays
+- how much extra memory a program uses.
+- Only counts extra space, not input data
+- Focuses on variables and extra arrays
 
 ## Simple example:
--Using only a few variables → O(1) space
--Creating an extra array of size n → O(n) space
+- Using only a few variables → O(1) space
+- Creating an extra array of size n → O(n) space
 
 
 ## In Simple Words: 
