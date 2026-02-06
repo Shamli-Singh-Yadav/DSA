@@ -29,14 +29,14 @@ Example
 Output:
 
     Java Language
-```Text
 
 #### Common StringBuilder Methods
+```text
 1. append():Adds text at the end.
-            sb.append(" World");
+            - sb.append(" World");
 
 2. insert():Inserts text at a specific position.
-            sb.insert(4, " is");
+            - sb.insert(4, " is");
 
 3. replace():Replaces characters in a given range.
             sb.replace(0, 4, "Python");
