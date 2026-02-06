@@ -14,11 +14,12 @@ Examples:
 2. string fruits[]={"apple","banana","grape"};
 
 ### Input/output in array:
+```
 int marks[]=new int[5];
 Scanner sc=new Scanner(System.in);
 marks[0]=sc.nextInt();//input
 System.out.println(marks[0]);//output
-
+```
 ### Function we can perform on arrays:
 
 1. Traversing: accessing each element of the array one by one.
