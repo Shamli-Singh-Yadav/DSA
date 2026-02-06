@@ -19,14 +19,17 @@ StringBuilder → Mutable (can be modified)
 So, when you need to frequently modify strings, StringBuilder is a better choice.
 
 Example
+```
     StringBuilder sb = new StringBuilder("Java");
     sb.append(" Language");
     System.out.println(sb);
 
+```
 
 Output:
 
     Java Language
+```Text
 
 #### Common StringBuilder Methods
 1. append():Adds text at the end.
@@ -50,3 +53,5 @@ Output:
 
 7. charAt(): Returns character at a given index.
              sb.charAt(2);
+
+```
